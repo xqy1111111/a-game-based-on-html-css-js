@@ -7,7 +7,7 @@ class Sprite {
 
         /////image
         this.image = new Image();
-        this.image.src=config.src
+        this.image.src = config.src;
 
 
 
